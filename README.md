@@ -1,5 +1,9 @@
 # 🦜️🔗 LangChain
 
+# This version is compatible with GPT4ALL offlines modules
+
+The incompatibility issue is fixed here.
+
 ⚡ Building applications with LLMs through composability ⚡
 
 [![Release Notes](https://img.shields.io/github/release/hwchase17/langchain)](https://github.com/hwchase17/langchain/releases)
